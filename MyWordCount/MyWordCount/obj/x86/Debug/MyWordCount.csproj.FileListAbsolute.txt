@@ -1,0 +1,17 @@
+D:\软件测试作业\MyWordCount\MyWordCount\bin\Debug\MyWordCount.exe
+D:\软件测试作业\MyWordCount\MyWordCount\bin\Debug\MyWordCount.pdb
+D:\软件测试作业\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.exe
+D:\软件测试作业\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.pdb
+D:\软件测试作业\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.csprojResolveAssemblyReference.cache
+C:\Users\Jishou Wu\Documents\Tencent Files\644330376\FileRecv\MyWordCount\MyWordCount\MyWordCount\bin\Debug\MyWordCount.exe
+C:\Users\Jishou Wu\Documents\Tencent Files\644330376\FileRecv\MyWordCount\MyWordCount\MyWordCount\bin\Debug\MyWordCount.pdb
+C:\Users\Jishou Wu\Documents\Tencent Files\644330376\FileRecv\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.csprojAssemblyReference.cache
+C:\Users\Jishou Wu\Documents\Tencent Files\644330376\FileRecv\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.csproj.CoreCompileInputs.cache
+C:\Users\Jishou Wu\Documents\Tencent Files\644330376\FileRecv\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.exe
+C:\Users\Jishou Wu\Documents\Tencent Files\644330376\FileRecv\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.pdb
+D:\ChromeDownload\MyWordCount\MyWordCount\MyWordCount\bin\Debug\MyWordCount.exe
+D:\ChromeDownload\MyWordCount\MyWordCount\MyWordCount\bin\Debug\MyWordCount.pdb
+D:\ChromeDownload\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.csprojAssemblyReference.cache
+D:\ChromeDownload\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.csproj.CoreCompileInputs.cache
+D:\ChromeDownload\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.exe
+D:\ChromeDownload\MyWordCount\MyWordCount\MyWordCount\obj\x86\Debug\MyWordCount.pdb

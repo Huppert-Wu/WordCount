@@ -1,0 +1,15 @@
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\output.txt单词数10
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\output.txt字符数：71
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\output.txt行数1
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\stopfile.txt单词数10
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\stopfile.txt字符数：73
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\stopfile.txt行数1
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\test01.txt单词数10
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\test01.txt字符数：71
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\test01.txt行数1
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\testdir01\testfile01.txt单词数11
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\testdir01\testfile01.txt字符数：85
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\testdir01\testfile01.txt行数1
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\testdir01\testdir02\testfile02.txt单词数12
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\testdir01\testdir02\testfile02.txt字符数：95
+C:\Users\Jishou Wu\Desktop\MyWordCount\MyWordCount\bin\Debug\testdir01\testdir02\testfile02.txt行数1
